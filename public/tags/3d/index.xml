@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D on Katharine Tena</title>
+    <link>//localhost:1313/tags/3d/</link>
+    <description>Recent content in 3D on Katharine Tena</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>kgt8@pitt.edu (Katharine Tena)</managingEditor>
+    <webMaster>kgt8@pitt.edu (Katharine Tena)</webMaster>
+    <copyright>© 2026 Katharine Tena</copyright>
+    <atom:link href="//localhost:1313/tags/3d/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Crow Game</title>
+      <link>//localhost:1313/games/crowgame/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kgt8@pitt.edu (Katharine Tena)</author>
+      <guid>//localhost:1313/games/crowgame/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/crowgame/featured.png" />
+    </item>
+    
+    <item>
+      <title>Evan&#39;s Home</title>
+      <link>//localhost:1313/games/evanshome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kgt8@pitt.edu (Katharine Tena)</author>
+      <guid>//localhost:1313/games/evanshome/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/evanshome/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
