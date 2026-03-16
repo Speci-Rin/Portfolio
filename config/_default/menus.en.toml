@@ -20,9 +20,10 @@
   pageRef = "games"
   weight = 3
 
-#[[main]]
-#  name = "Resume"
-#  weight = 2
+[[main]]
+  name = "Resume"
+  pageRef = "content\resumeMarch26.pdf"
+  weight = 2
 
 #[[main]]
 #  name = "example sub-menu 2"
