@@ -1,6 +1,6 @@
 ---
 title: Red Debt Redemption
-tags: ["Godot", "2D", "video game", "shooter", "finance"]
+tags: ["Godot", "2D", "video game", "shooter", "finance", "2026"]
 ---
 ![Screenshot of the game Red Debt Redemption. Notification screen reading: You got through the month! After living expenses, you finished wit: $50. This amount will go towards your debt.](RedDebtRedemption.png)
 

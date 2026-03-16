@@ -1,6 +1,6 @@
 ---
 title: Garden of Unity
-tags: ["Unity", "Game Jam", "2D", "video game", "farming", "community"]
+tags: ["Unity", "Game Jam", "2D", "video game", "farming", "community", "2024"]
 ---
 ![Blue sky background with white lettering reading Garden of Unity. Below the words is a golden play button and pixel plants line the bottom.](GardenofUnity.png)
 

@@ -13,6 +13,16 @@
     
     <item>
       <title></title>
+      <link>//localhost:1313/art/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kgt8@pitt.edu (Katharine Tena)</author>
+      <guid>//localhost:1313/art/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
       <link>//localhost:1313/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>kgt8@pitt.edu (Katharine Tena)</author>
