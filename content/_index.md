@@ -3,6 +3,8 @@ description: I provide and exemplify expertise in Game Design on this website wi
 ---
 My name is Katharine (Rin) Tena, and I am an aspiring game designer currently studying at the University of Pittsburgh. I am passionate about making games that provide a unique and compelling experience to its users! Aside from my professional development, my interests include traditional Filipino dancing (Tinikling), rock climbing, and painting! hello
 
+<!--[download resume](resumeMarch26.pdf)-->
+
 {{< button href="resumeMarch26.pdf" target="_blank" >}}
 View Resume
 {{< /button >}}
