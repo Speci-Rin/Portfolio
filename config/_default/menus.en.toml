@@ -22,13 +22,25 @@
 
 [[main]]
   name = "Resume"
-  pageRef = "content\resumeMarch26.pdf"
+  pageRef = "resume"
   weight = 2
 
 #[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
+#  name = "Games"
+#  parent = "Portfolio"
+#  pageRef = "games"
+#  weight = 20
+
+#[[main]]
+#  name = "Art"
+#  parent = "Portfolio"
+#  pageRef = "art"
+#  weight = 20
+
+#[[main]]
+#  name = "Design Docs"
+#  parent = "Portfolio"
+#  pageRef = "docs"
 #  weight = 20
 
 #[[subnavigation]]

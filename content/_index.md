@@ -5,7 +5,7 @@ My name is Katharine (Rin) Tena, and I am an aspiring game designer currently st
 
 <!--[download resume](resumeMarch26.pdf)-->
 
-{{< button href="resumeMarch26.pdf" target="_blank" >}}
+{{< button href="resume" target="_self" >}}
 View Resume
 {{< /button >}}
 &emsp;
