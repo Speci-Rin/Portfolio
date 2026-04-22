@@ -71,7 +71,7 @@ View Resume PDF
 - Public Speaking
 
 ## Leadership Experience
-**Pitt Climbing Wall Instructor and Majager**
+**Pitt Climbing Wall Instructor and Manager**
 
 **2024-present**
 - Instructing Bouldering, Top Rope, and Lead Climbing
