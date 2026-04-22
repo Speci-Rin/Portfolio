@@ -9,7 +9,57 @@
     <managingEditor>kgt8@pitt.edu (Katharine Tena)</managingEditor>
     <webMaster>kgt8@pitt.edu (Katharine Tena)</webMaster>
     <copyright>© 2026 Katharine Tena</copyright>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Red Debt Redemption</title>
+      <link>//localhost:1313/games/reddebtredemption/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <author>kgt8@pitt.edu (Katharine Tena)</author>
+      <guid>//localhost:1313/games/reddebtredemption/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/reddebtredemption/featured.png" />
+    </item>
+    
+    <item>
+      <title>We Are In A Game</title>
+      <link>//localhost:1313/games/weareinagame/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      <author>kgt8@pitt.edu (Katharine Tena)</author>
+      <guid>//localhost:1313/games/weareinagame/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/weareinagame/featured.png" />
+    </item>
+    
+    <item>
+      <title>Garden of Unity</title>
+      <link>//localhost:1313/games/gardenofunity/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <author>kgt8@pitt.edu (Katharine Tena)</author>
+      <guid>//localhost:1313/games/gardenofunity/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/gardenofunity/featured.png" />
+    </item>
+    
+    <item>
+      <title>Evan&#39;s Home</title>
+      <link>//localhost:1313/games/evanshome/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <author>kgt8@pitt.edu (Katharine Tena)</author>
+      <guid>//localhost:1313/games/evanshome/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/evanshome/featured.png" />
+    </item>
+    
+    <item>
+      <title>Crow Game</title>
+      <link>//localhost:1313/games/crowgame/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      <author>kgt8@pitt.edu (Katharine Tena)</author>
+      <guid>//localhost:1313/games/crowgame/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/crowgame/featured.png" />
+    </item>
     
     <item>
       <title></title>
@@ -29,56 +79,6 @@
       <guid>//localhost:1313/resume/</guid>
       <description></description>
       
-    </item>
-    
-    <item>
-      <title>Crow Game</title>
-      <link>//localhost:1313/games/crowgame/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kgt8@pitt.edu (Katharine Tena)</author>
-      <guid>//localhost:1313/games/crowgame/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/crowgame/featured.png" />
-    </item>
-    
-    <item>
-      <title>Evan&#39;s Home</title>
-      <link>//localhost:1313/games/evanshome/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kgt8@pitt.edu (Katharine Tena)</author>
-      <guid>//localhost:1313/games/evanshome/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/evanshome/featured.png" />
-    </item>
-    
-    <item>
-      <title>Garden of Unity</title>
-      <link>//localhost:1313/games/gardenofunity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kgt8@pitt.edu (Katharine Tena)</author>
-      <guid>//localhost:1313/games/gardenofunity/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/gardenofunity/featured.png" />
-    </item>
-    
-    <item>
-      <title>Red Debt Redemption</title>
-      <link>//localhost:1313/games/reddebtredemption/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kgt8@pitt.edu (Katharine Tena)</author>
-      <guid>//localhost:1313/games/reddebtredemption/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/reddebtredemption/featured.png" />
-    </item>
-    
-    <item>
-      <title>We Are In A Game</title>
-      <link>//localhost:1313/games/weareinagame/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kgt8@pitt.edu (Katharine Tena)</author>
-      <guid>//localhost:1313/games/weareinagame/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/weareinagame/featured.png" />
     </item>
     
   </channel>
