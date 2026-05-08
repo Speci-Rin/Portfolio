@@ -7,7 +7,7 @@
 
 Focused on game design with experience in programming, art, and project management. Excellent organization, communication, and team leadership, with experience ensuring deliverables are completed on time.
 
-{{< button href="KatharineTenaResume_3.16.26.pdf" target="_blank" >}}
+{{< button href="KatharineTenaResume.pdf" target="_blank" >}}
 View Resume PDF
 {{< /button >}}
 

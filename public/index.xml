@@ -9,7 +9,17 @@
     <managingEditor>kgt8@pitt.edu (Katharine Tena)</managingEditor>
     <webMaster>kgt8@pitt.edu (Katharine Tena)</webMaster>
     <copyright>© 2026 Katharine Tena</copyright>
-    <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Damang Duel&amp;#58; Spider Showdown</title>
+      <link>//localhost:1313/games/damangduel/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <author>kgt8@pitt.edu (Katharine Tena)</author>
+      <guid>//localhost:1313/games/damangduel/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/games/damangduel/featured.png" />
+    </item>
     
     <item>
       <title>Red Debt Redemption</title>
