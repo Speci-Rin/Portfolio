@@ -28,3 +28,4 @@ My role in this project was a 2D artist.
 As one of two artists, I was tasked with creating half of the assets in the game. In total, we made about 60 unique assets with three to four color variations for each asset. I created and designed all items. Then, I drew a version meant to be displayed off the doll before passing it to the other artist to draw the same model on the doll. I also drew the thumbs up assets and large paper asset. &emsp;
 
 ## Assets
+<!--![Pencil drawing of early character designs with mechanical spider legs coming out of a back pack](EarlyCharacterDesign.png)-->
