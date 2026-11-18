@@ -1,19 +1,14 @@
 ---
 title: Surf War
-tags: ["Unity", "3D","prototype", "Capstone", "video game", "multiplayer", "6DOF", "2026"]
+tags: ["Unity", "Blender", "3D", "Capstone", "video game", "multiplayer", "6DOF", "2026"]
 description: "Local, multiplayer fighting game based on Filipino Spider Fighting"
 date: 2026-12-05
 showTableOfContents: true
 showHero: true
 draft: true
 ---
-<!--![3D rendered crow looking down on a forest top of a mountain.](CrowGame.png)-->
 {{< button href="https://speci-rin.itch.io/damang-duel" target="_blank" >}}
 Itch Page
-{{< /button >}}
-&emsp;
-{{< button href="https://www.youtube.com/watch?v=sl4KjFiS9O4" target="_blank" >}}
-Play Through Video
 {{< /button >}}
 &emsp;
 
@@ -29,13 +24,10 @@ These stories led me to dreaming up ways I could experience this myself here in 
 ![Pencil drawing of early character designs with mechanical spider legs coming out of a back pack](EarlyCharacterDesign.png)
 
 ## My Role
-My role in this project was the Project Leader, Concept Artist and Gameplay Designer.
+My role in this project was the Level Design Lead.
 &emsp;
 
-As the Project Leader, I was in charge of ensuring this project executed my idea thoroughly and authentically. To do this, I discussed with my project partner what the game should look like at the beginning of each week and kept track of the different deadlines.&emsp;
-
-I drew potential spider designs on paper and on Clip Studio Paint as the Concept Artist. I also drew mock screenshots and some story boards for the game’s aesthetic throughout the project. Lastly, I sent out a form for feedback on these designs and planned iterations moving forward.
-For the Gameplay Designer, I worked on what the game would look and feel like during the fighting section. I designed the different movesets of each spider design and implemented two of them into the game. &emsp;
+As the Level Design Lead, I was tasked to create levels to accomodate six degrees of freedom with multiplayer. I designed the maps around this concept, so I had to account for the movement in every direction that the players would have. I created these levels around different fish tank aesthetics.&emsp;
 
 ## The Game
 Damang Duel: Spider Showdown is a multi-player 2D fighting game for pc where the players must win matches of fights against the other player to win the pot of money. The players must bet on and fight spiders so that they mimic the real sport of spider fighting from the Philippines. They must also master mechanics and overpower their friends so that they bond and feel excitement in the couch multiplayer setting.

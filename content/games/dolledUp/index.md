@@ -14,7 +14,7 @@ Play
 Winner of best Visual Design in Games for Social Impact 2026
 
 ## Background
-This was a submission for the University of Pittsburgh's Games for Social Impact 2026.v The game jam lasts over the course of about 36 hours. Jammers must conceptualize and build games based on the theme. This year, the theme was "Dolly."
+This was a submission for the University of Pittsburgh's Games for Social Impact 2026. The game jam lasts over the course of about 36 hours. Jammers must conceptualize and build games based on the theme. This year, the theme was "Dolly."
 
 ## The Game
 My Dolly is a two player couch co-op game for PC where a doll factory has recently entered new management, much to the dismay of the workers. The players must work together to create new dolls, deciding between the company’s requirements and the children' s requests so that they feel conflicted over the role of gender imposed by large corporations.&emsp;
