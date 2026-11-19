@@ -30,7 +30,7 @@ View Resume PDF
 
 #### Relevant Courses
 - Game Design
-- Humsn Centered Systems
+- Human Centered Systems
 - Analysis of Information systems
 - Computation in Information Science
 - Composing Digital Media
