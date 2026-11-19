@@ -20,18 +20,18 @@ View Resume PDF
 
 **Major** in Digital Narrative and Interactive Design; Game Design Track
 
-- Interdisciplinary program with Information Science and English disciplines used to convey ideas through interactive mediums.
+- Interdisciplinary program with Computer Science and English disciplines used to convey ideas through interactive mediums.
 
 **Minor** in Information Science and Studio Arts
 
 **Certificate** in American Sign Language
 
-**GPA:** 3.855
+**GPA:** 3.871
 
 #### Relevant Courses
 - Game Design
 - Human Centered Systems
-- Analysis of Information systems
+- Analysis of Information Systems
 - Computation in Information Science
 - Composing Digital Media
 - Game, Story, Play
@@ -42,7 +42,7 @@ View Resume PDF
 
 *Edinburgh, Scotland* **Summer 2025**
 
-- Immersive program including both ASL and BSL, focusing on interaction and comparison between American and British Deaf Culture.
+- Immersive program including both ASL and BSL, focusing on interaction and comparison between American and British Deaf Cultures.
 
 
 ### **Bethel Park High School**
@@ -66,25 +66,29 @@ View Resume PDF
 - Python
 - SQL
 - GDScript
+- Blender
 - ASL (Proficient)
-- CPR Certified
 - Public Speaking
 
 ## Leadership Experience
-**Pitt Climbing Wall Instructor and Manager**
+**Professional Development Undergraduate Teaching Assistant**
+**Expected Spring 2027**
+- Will provide instructional support by facilitating discussions and communication with students
 
+
+**Pitt Climbing Wall Instructor and Manager**
 **2024-present**
-- Instructing Bouldering, Top Rope, and Lead Climbing
-- Planning programs and private offerings
-- Scheduling and Training Instructors
+- Instructed Bouldering, Top Rope, and Lead Climbing
+- Planned programs and private offerings
+- Scheduled and Trained Instructors
 
 **Lead Barkada Choreographer**
 
 **2024-present**
 
-- Creating Choreography for a modern Filipino Dance Team
+- Created Choreography for a modern Filipino Dance Team
 - Includes styles of Tinikling, Bench Dancing, Fan Dancing, and Candle Dancing
-- Scheduling practices and managing the team
+- Scheduled practices and managed the team
 
 ## Personal Interests
 - Board Games
