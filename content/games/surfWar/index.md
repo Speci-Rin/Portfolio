@@ -14,34 +14,27 @@ Itch Page
 
 ## Background
 &emsp;
-This game was created during an independant study in a group of four people. We brainstormed multiple different games, but each one did not have a clear vision yet. Finally, one of our teammembers pulled up their list of stashed game ideas and came across "fish with guns." &emsp;
-During the ideation phase, we decided on what features we wanted to include. Firstly, we wanted it to be 3D so we had the experience of coding and creating assets for a 3D game. We also wanted to make a multiplayer game that incorporated six degrees of freedom in the movement. We knew all of these features would pose unique challenges that we wanted to overcome.&emsp;
-This iteration was made during Pitt’s Digital Narrative and Interactive Design Science of Computing and Information Capstone.
-&emsp;
+Surf War was created during an independent study in a group of four people. This iteration was made during Pitt’s Digital Narrative and Interactive Design Science of Computing and Information Capstone. The concept of our game revolves around the six degrees of freedom, multiplayer, and 3D environment. &emsp;
+
+We started our ideation by sketching initial concept art that was later used as inspiration for the final game. &emsp;
 
 <!--![Pencil drawing of young girl with notes about early concepts of Damang Duel](EarlyBrainstorm.png)
 ![Pencil drawing of early character designs with mechanical spider legs coming out of a back pack](EarlyCharacterDesign.png)-->
 
 ## My Role
-My role in this project was the Level Design Lead.
-&emsp;
+My role in this project was the **Level Design Lead**. As such, I was tasked to design and create levels to accommodate six degrees of freedom with multiplayer play. I designed the maps around this concept, so I had to account for the movement in every direction that the players would have. I created these levels around different fish tank aesthetics that included coral, trees, and pirate ship levels. In total, four levels were completed and implemented into the game.&emsp;
 
-As the Level Design Lead, I was tasked to create levels to accomodate six degrees of freedom with multiplayer. I designed the maps around this concept, so I had to account for the movement in every direction that the players would have. I created these levels around different fish tank aesthetics. In total, four levels were completed. &emsp;
-I created level greyboxes in unity that mapped out the size and shape of the maps. I used the basic shapes in unity to do this.&emsp;
+To create each level, I started by sketching different design elements on paper. Each design revolved around a central weenie. For example, the four weenies in the completed levels are a skeleton, a pirate ship, a large tree trunk, and a lobster. Once I was happy with the design, I modeled each level in Unity using the basic 3D shapes. This allowed me to see the level in 3D while testing it with the movement before I commit to any elements I would have to model later. If I was satisfied with the grey boxed level, I started to create assets for them. I learned Blender for this project and became familiar with modeling complex shapes with a low-poly art style. I also learned basic animation, which I used in the seaweed, lobster, and pirate ship. A level was ready to be put in the official game for testing once I placed each object in the scene. &emsp;
 <!--![Greybox](EarlyBrainstorm.png)-->
-I then modeled assets in blender and placed them in the scene.&emsp;
 <!--![finished level](EarlyBrainstorm.png)-->
 
 ## The Game
 Surf War is a 3D multiplayer PVP game for PC where players must fight each other fish mafias in a turf war over the fish tank. The players must shoot and swim at each other to feel the satisfaction of defeating their friends and connection to these friends through play.&emsp;
 
-In order for this game to succeed, we created deliverables to acheive throughout the semester. Our most important deliverable was having a capsole of the game to upload onto Steam for a release that would occur after the semester had ended. Another goal, as stated earlier, was to include movement with six degrees of freedom in a 3D enviornment. We wanted the gameplay loop to revolve around the fast movement through an enviornment that makes it interesting to move around in.&emsp;
+In order for this game to succeed, we created deliverables to achieve throughout the semester. The deliverables of this game were created so that we would be on track to create a Steam release of the game after the semester concluded. To do this, we created a demo version to be posted on Itch.io. Another goal, as stated earlier, was to include movement with six degrees of freedom in a 3D environment. We wanted the gameplay loop to revolve around the fast movement through an environment that makes it interesting to move around in. &emsp;
 
-## The Process
-### Research
+## Design Challenges
+Through this process, I overcame different challenges that came with designing around movement with six degrees of freedom and learning Blender. With the former, I used touchstones such as Overload and Fly Dangerous. Elements I translated into a fishtank were vertical obstacles that a player could move around in different ways. In a future level, I hope to include a cave system, so the player does not know which way is up or down. For Blender, my main obstacle was learning the software. For each mistake, I would often have to redo most of my work. By the end, I was able to get a hang of the program and could create and animate assets effectively.
 
-### Art and Assets
-
-### Prototyping and Testing
-
-## Looking Ahead
+## Looking Forward
+In future iterations, we hope to add levels, character designs, weapons, and more. We would also like to incoporate online multiplayer. This final iteration will be released on Steam.
