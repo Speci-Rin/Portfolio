@@ -2,7 +2,7 @@
 title: Surf War
 tags: ["Unity", "Blender", "3D", "Capstone", "video game", "multiplayer", "6DOF", "2026"]
 description: "Couch competitive fish game with guns."
-date: 2026-12-05
+date: 2026-11-26
 showHero: true
 draft: false
 ---
