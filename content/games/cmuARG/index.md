@@ -22,7 +22,7 @@ My role in this project was the Narrative Designer.
 
 As the Narrative Designer, I was in charge of the lore and other writing in the ARG. I created a storyline and beats that the participants will have to figure out during the run. I also wrote additonal materials such as scripts for certain puzzles. Before each iteration ran, I wrote and sent out preliminary materials to the outside partners we collaborated with. This ensured everyone was on the same page about what would happen during the ARG's run.&emsp;
 
-I also took on responsibilities outside of my main role. I also created assets and gathered physical materials needed for in person puzzles. 
+I also took on responsibilities outside of my main role. I created assets and gathered physical materials needed for in person puzzles. 
 
 ## The First Play Test
 ### Hand Off
@@ -36,4 +36,4 @@ I also took on responsibilities outside of my main role. I also created assets a
 
 
 ## Looking Ahead
-The entire run of the ARG is meant to have four sections, each ending on an event, such as the Fall Festival. This 
+The entire run of the ARG is meant to have four sections, each ending on an event, such as the Fall Festival.

@@ -5,12 +5,12 @@ description: "Local, multiplayer fighting game based on Filipino Spider Fighting
 date: 2026-12-05
 showTableOfContents: true
 showHero: true
-draft: true
+draft: false
 ---
-<!--{{< button href="https://speci-rin.itch.io/damang-duel" target="_blank" >}}
+{{< button href="https://chrismakesthings.itch.io/surf-war" target="_blank" >}}
 Itch Page
 {{< /button >}}
-&emsp; -->
+&emsp;
 
 ## Background
 &emsp;
@@ -24,7 +24,8 @@ We started our ideation by sketching initial concept art that was later used as 
 ## My Role
 My role in this project was the **Level Design Lead**. As such, I was tasked to design and create levels to accommodate six degrees of freedom with multiplayer play. I designed the maps around this concept, so I had to account for the movement in every direction that the players would have. I created these levels around different fish tank aesthetics that included coral, trees, and pirate ship levels. In total, four levels were completed and implemented into the game.&emsp;
 
-To create each level, I started by sketching different design elements on paper. Each design revolved around a central weenie. For example, the four weenies in the completed levels are a skeleton, a pirate ship, a large tree trunk, and a lobster. Once I was happy with the design, I modeled each level in Unity using the basic 3D shapes. This allowed me to see the level in 3D while testing it with the movement before I commit to any elements I would have to model later. If I was satisfied with the grey boxed level, I started to create assets for them. I learned Blender for this project and became familiar with modeling complex shapes with a low-poly art style. I also learned basic animation, which I used in the seaweed, lobster, and pirate ship. A level was ready to be put in the official game for testing once I placed each object in the scene. &emsp;
+To create each level, I started by sketching different design elements on paper. Each design revolved around a central weenie. For example, the four weenies in the completed levels are a skeleton, a pirate ship, a large tree trunk, and a lobster. Once I was happy with the design, I modeled each level in Unity using the basic 3D shapes. This allowed me to see the level in 3D while testing it with the movement before I commit to any elements I would have to model later.&emsp;
+If I was satisfied with the grey boxed level, I started to create assets for them. I learned Blender for this project and became familiar with modeling complex shapes with a low-poly art style. I also learned basic animation, which I used in the seaweed, lobster, and pirate ship. A level was ready to be put in the official game for testing once I placed each object in the scene. &emsp;
 <!--![Greybox](EarlyBrainstorm.png)-->
 <!--![finished level](EarlyBrainstorm.png)-->
 
