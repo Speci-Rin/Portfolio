@@ -1,9 +1,8 @@
 ---
 title: Surf War
 tags: ["Unity", "Blender", "3D", "Capstone", "video game", "multiplayer", "6DOF", "2026"]
-description: "Local, multiplayer fighting game based on Filipino Spider Fighting"
+description: "Couch competitive fish game with guns."
 date: 2026-12-05
-showTableOfContents: true
 showHero: true
 draft: false
 ---
