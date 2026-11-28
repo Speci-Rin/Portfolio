@@ -31,7 +31,7 @@
   weight = 2
 
 [[main]]
-  name = "Critique"
+  name = "Critiques"
   parent = "Sidequests"
   pageRef = "writing"
   weight = 20
