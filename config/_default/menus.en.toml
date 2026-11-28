@@ -25,11 +25,10 @@
   pageRef = "resume"
   weight = 2
 
-#[[main]]
-#  name = "Games"
-#  parent = "Portfolio"
-#  pageRef = "games"
-#  weight = 20
+[[main]]
+  name = "Critique"
+  pageRef = "writing"
+  weight = 4
 
 #[[main]]
 #  name = "Art"
