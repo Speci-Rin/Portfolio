@@ -21,12 +21,16 @@ We started our ideation by sketching initial concept art that was later used as 
 ![Pencil drawing of early character designs with mechanical spider legs coming out of a back pack](EarlyCharacterDesign.png)-->
 
 ## My Role
-My role in this project was the **Level Design Lead**. As such, I was tasked to design and create levels to accommodate six degrees of freedom with multiplayer play. I designed the maps around this concept, so I had to account for the movement in every direction that the players would have. I created these levels around different fish tank aesthetics that included coral, trees, and pirate ship levels. In total, four levels were completed and implemented into the game.&emsp;
+As the Level Design Lead for this project, I was tasked to design and create levels to accommodate six degrees of freedom with multiplayer play. I designed the maps around this concept, accounting for the movement in every direction that the players would have within the game. These levels were created around different fish tank aesthetics that included coral, trees, and pirate ship levels. In total, four levels were completed and implemented into the game.&emsp;
 
-To create each level, I started by sketching different design elements on paper. Each design revolved around a central weenie. For example, the four weenies in the completed levels are a skeleton, a pirate ship, a large tree trunk, and a lobster. Once I was happy with the design, I modeled each level in Unity using the basic 3D shapes. This allowed me to see the level in 3D while testing it with the movement before I commit to any elements I would have to model later.&emsp;
-If I was satisfied with the grey boxed level, I started to create assets for them. I learned Blender for this project and became familiar with modeling complex shapes with a low-poly art style. I also learned basic animation, which I used in the seaweed, lobster, and pirate ship. A level was ready to be put in the official game for testing once I placed each object in the scene. &emsp;
-<!--![Greybox](EarlyBrainstorm.png)-->
-<!--![finished level](EarlyBrainstorm.png)-->
+I began by sketching on paper different design elements revolving around a central landmark for each level. For example, the four landmarks in the completed levels are a skeleton, a pirate ship, a large tree trunk, and a lobster. Once the sketch met my own personal standards of quality, I modeled each level in Unity using the basic 3D shapes. This allowed me to test the level in the game before committing to any elements I would have to model later.&emsp;
+![Pen Sketch of a level with a central cave system and coral](SurfWar_DraftSketch.png)
+![Pen Sketch of a level with a skeleton as a central landmark](SurfWar_SkeleSketch.png)
+![A level in Unity mapped out using basic shapes. The level includes grey boxes, green virtical capsuls, and black wider capsuls to represent a skeleton, seaweed, and coral respectively](SurfWar_SkeleGrey.png)
+
+When I was satisfied with the grey boxed level, I created assets for them. I learned Blender for this project and became familiar with modeling complex shapes with a low-poly art style. I also learned basic animation, which I used in the seaweed, lobster, and pirate ship. However, the lobster and pirate ship animations still need adjustments, so they were not used in the alpha version that is currently posted. A level was ready to be put in the official game for testing once I placed each object in the scene. &emsp;
+![Completed level in Unity dressed with colorful coral and seaweed](SurfWar_Skeleton.png)
+
 
 ## The Game
 Surf War is a 3D multiplayer PVP game for PC where players must fight each other fish mafias in a turf war over the fish tank. The players must shoot and swim at each other to feel the satisfaction of defeating their friends and connection to these friends through play.&emsp;
