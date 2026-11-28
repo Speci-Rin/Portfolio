@@ -38,7 +38,12 @@ Surf War is a 3D multiplayer PVP game for PC where players must fight each other
 In order for this game to succeed, we created deliverables to achieve throughout the semester. The deliverables of this game were created so that we would be on track to create a Steam release of the game after the semester concluded. To do this, we created a demo version to be posted on Itch.io. Another goal, as stated earlier, was to include movement with six degrees of freedom in a 3D environment. We wanted the gameplay loop to revolve around the fast movement through an environment that makes it interesting to move around in. &emsp;
 
 ## Design Challenges
-Through this process, I overcame different challenges that came with designing around movement with six degrees of freedom and learning Blender. With the former, I used touchstones such as Overload and Fly Dangerous. Elements I translated into a fishtank were vertical obstacles that a player could move around in different ways. In a future level, I hope to include a cave system, so the player does not know which way is up or down. For Blender, my main obstacle was learning the software. For each mistake, I would often have to redo most of my work. By the end, I was able to get a hang of the program and could create and animate assets effectively.
+Through this process, I overcame different challenges that came with designing around movement with six degrees of freedom and learning Blender. With the former, I used touchstones such as *Overload* and *Fly Dangerous*. Elements I translated into a fishtank were vertical obstacles that a player could move around in different ways. In a future level, I hope to include a cave system, so the player does not know which way is up or down. For Blender, my main obstacle was learning the software. For each mistake, I would often have to redo most of my work. By the end, I was able to get a hang of the program and could create and animate assets effectively.
+<video width="400" controls>
+  <source src="SurfWar_LobsterAnim.mp4" type="video/mp4">
+  <source src="SurfWar_LobsterAnim.ogg" type="video/ogg">
+  Your browser does not support HTML video.
+</video>
 
 ## Looking Forward
 In future iterations, we hope to add levels, character designs, weapons, and more. We would also like to incoporate online multiplayer. This final iteration will be released on Steam.
