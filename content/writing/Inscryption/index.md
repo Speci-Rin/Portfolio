@@ -1,7 +1,7 @@
 ---
 title: Inscryption &#58; The Hidden Taxonomy of Game Designer Types
 tags: ["Inscryption", "Critique", "Game Designer Taxonomy","Player Type Taxonomy", "2025"]
-date: 2025-10-9
+date: 2025-10-09
 showTableOfContents: true
 showHero: true
 draft: false
